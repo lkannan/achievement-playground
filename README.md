@@ -6,4 +6,5 @@ A playground for earning GitHub achievements with Antigravity AI.
 - [ ] YOLO
 - [ ] Pull Shark
 - [ ] Pair Extraordinaire
+- [x] Quickdraw
 A playground for earning GitHub achievements with Antigravity AI
